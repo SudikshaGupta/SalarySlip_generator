@@ -23,7 +23,7 @@ This is a browser-based version of the Employee Payroll / Salary Slip Generator 
   - `10%` for gross salary from `Rs. 30,001` to `Rs. 60,000`
   - `20%` for gross salary above `Rs. 60,000`
  
-  - 
+
 ## ✨ Advanced & Interactive Features
 
 -Dark / Light Mode Toggle:
