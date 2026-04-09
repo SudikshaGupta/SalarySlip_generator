@@ -27,6 +27,7 @@ This is a browser-based version of the Employee Payroll / Salary Slip Generator 
 ## ✨ Advanced & Interactive Features
 
 -Dark / Light Mode Toggle
+
  Switch between themes for a better user experience and accessibility.
 
  
