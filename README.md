@@ -26,23 +26,25 @@ This is a browser-based version of the Employee Payroll / Salary Slip Generator 
   - 
 ## ✨ Advanced & Interactive Features
 
--Dark / Light Mode Toggle
+-Dark / Light Mode Toggle:
  Switch between themes for a better user experience and accessibility.
 
  
--Nova Chatbot Assistant
+-Nova Chatbot Assistant:
  An interactive chatbot that guides users through features like adding employees, generating payslips, and understanding payroll rules.
 
  
--Smart Search
+-Smart Search:
  Enhanced search functionality for quickly finding employees with improved usability over basic exact-match search.
 
  
--Salary Graphs & Charts
+-Salary Graphs & Charts:
  Visual representation of payroll data such as salary distribution, highest earners, and overall trends for better insights.
 
  
--Downloadable Payslip (PDF)
+-Downloadable Payslip (PDF):
  Generate and download professional salary slips in PDF format for easy sharing and record-keeping.
--Payslip Theme Generator
+
+ 
+-Payslip Theme Generator:
 Customize the appearance of payslips with different styles, making the output more visually appealing and personalized.
